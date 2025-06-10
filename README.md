@@ -1,4 +1,5 @@
---------------CHECK IMPORTENT TXT FOR USE ALL THE API KEYS THAT NEED TO RUN THIS PROJECT--------------
+--------------CHECK IMPORTENT TXT FOR USE ALL THE API KEYS THAT NEED TO RUN THIS PROJECT --------------
+-------------- ALSO I PROVIDED ONE PDF AND ITS DOCX FILE TOO FOR DEMO PURPOSE -------------------------
 
 # Document-Based Question Answering Application 📚🚀
 
