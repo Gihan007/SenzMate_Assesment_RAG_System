@@ -1,0 +1,8 @@
+
+---------------------------------------- Please Use these API keys in order to run the app.py -------------------------------------------------
+
+GROQ_API_KEY  = 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
+HUGGINGFACE_API_KEY=  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 
+WEAVIATE_URL = "https://boho6ox7rmufpc3ezzzsqq.c0.asia-southeast1.gcp.weaviate.cloud"                            
+WEAVIATE_API_KEY = "Wk0yR3BFcTFwckRIZDJTWF9tTW85U3EvdUVaTkIyZ3p2ZDVMaSsxNjFmWDNTalRUSll2TTg3WElXS0tzPV92MjAw" 
+
