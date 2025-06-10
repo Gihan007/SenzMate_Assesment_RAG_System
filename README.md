@@ -1,4 +1,4 @@
-# CHECK IMPORTENT TXT FOR USE ALL THE API KEYS THAT NEED TO RUN THIS PROJECT
+--------------CHECK IMPORTENT TXT FOR USE ALL THE API KEYS THAT NEED TO RUN THIS PROJECT--------------
 
 # Document-Based Question Answering Application 📚🚀
 
@@ -45,8 +45,8 @@ Users can upload files or provide links, which are processed and split into text
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/document-qa-app.git
-cd document-qa-app
+git clone https://github.com/Gihan007/SenzMate_Assesment_RAG_System.git
+cd SenzMate_Assesment_RAG_System
 ```
 
 2. Create and activate a Python virtual environment:
@@ -220,6 +220,4 @@ Context + Question Sent → Groq Llama-4 Maverick Model (LLM)
 Developed by **Gihan Lakmal**
 Demo for SenzMate Interview Assessment 🚀
 
----
 
-If you'd like, I can also help you generate a graphical flow diagram image or create a `requirements.txt` file! Just ask.
