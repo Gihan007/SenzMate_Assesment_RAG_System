@@ -1,12 +1,9 @@
-
+# CHECK IMPORTENT TXT FOR USE ALL THE API KEYS THAT NEED TO RUN THIS PROJECT
 
 # Document-Based Question Answering Application 📚🚀
 
 A Streamlit web app that allows users to upload documents (PDF, DOCX, TXT, Text input, or URLs) and ask intelligent questions. It processes the input using vector embeddings stored in Weaviate and answers queries with Groq's Llama AI model.
 
-![alt text](image-1.png)
-
----
 
 ## Table of Contents
 
